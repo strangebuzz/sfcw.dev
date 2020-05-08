@@ -1,6 +1,6 @@
 
 ————————————————————————————————————————————————————————————————————————————————
-            = sfcs.dev, miniwebsite for the Sfcw dev tool =
+            = sfcw.dev, mini website for the Sfcw dev tool =
 ————————————————————————————————————————————————————————————————————————————————
 
 @Tmp
@@ -10,5 +10,4 @@
 @Todo
 ————————————————————————————————————————————————————————————————————————————————
 
-* Add vhost
-* Install vhost on VPS
+* Add executables for download + compute sha1
