@@ -10,4 +10,4 @@
 @Todo
 ————————————————————————————————————————————————————————————————————————————————
 
-* Add executables for download + compute sha1
+* Ad sh script to build all executables automatically
