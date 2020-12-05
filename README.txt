@@ -9,5 +9,3 @@
 
 @Todo
 ————————————————————————————————————————————————————————————————————————————————
-
-* Ad sh script to build all executables automatically
