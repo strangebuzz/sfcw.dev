@@ -14,4 +14,4 @@ update: ## Simple git update
 	git pull
 
 le-renew: ## Renew Let's encrypt HTTPS cerificates
-	certbot --apache -d sfcw.dev
+	certbot --apache -d sfcw.ovh
